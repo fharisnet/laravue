@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/raednahdi0064/3d480dc8-3d9a-47dd-a8b2-29477ba891c3/d95110b8-af3f-48d4-af78-d63a97190c95/_apis/work/boardbadge/92de0e29-f3e6-4183-a171-5bdd69a6f4b3)](https://dev.azure.com/raednahdi0064/3d480dc8-3d9a-47dd-a8b2-29477ba891c3/_boards/board/t/d95110b8-af3f-48d4-af78-d63a97190c95/Microsoft.RequirementCategory)
 <p align="center">
   <img width="320" src="https://cp5.sgp1.cdn.digitaloceanspaces.com/zoro/laravue-cdn/laravue-logo-line.png">
 </p>
