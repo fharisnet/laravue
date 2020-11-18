@@ -29,7 +29,7 @@ jobs:
     - name: 'Deploy to Azure Web App'
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'fharisbooks'
+        app-name: 'fharisarabia'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_064ae8add3fc4cdf8812135c1b5a99fd }}
         package: .
